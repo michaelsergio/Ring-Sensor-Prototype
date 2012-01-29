@@ -1,0 +1,11 @@
+A prototype for a ring sensor that will ultimatly be converted for use in Gnome-Shell.
+
+Requires the ruby-processing gem.
+
+Run with rp5 watch vertexcircles.rb.
+Twiddle parameters in the program to have changes take live effect.
+
+Hopefully real version will be out soon!
+
+
+~~~Given an infinite amount of time for a project, nothing will ever get done~~~
